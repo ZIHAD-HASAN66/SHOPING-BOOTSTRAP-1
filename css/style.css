@@ -1,0 +1,21 @@
+.background-info{
+    background-color: #FCEAE8;
+}
+.buttol1{
+    background-color: #FFA500;
+}
+.buttol2 {
+    background-color: #DA70D6;
+}
+.buttol3{
+    background-color: #0000FF;
+}
+.batoon-back{
+    background: linear-gradient(#eb4688f3, #ff217aea);
+    padding: 9px 25px;
+    border-radius: 8px;
+    border: none;
+}
+.categories img {
+    width: 100px;
+}
